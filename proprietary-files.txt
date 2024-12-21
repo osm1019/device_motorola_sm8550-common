@@ -1,4 +1,6 @@
-# All unpinned blobs below are extracted from rtwo_g-user 14 U1TRS34.8-30-13-2-2-3 2a8f5b-817f7f release-keys - RETAIL variant.
+## All proprietary files from this list, unless pinned and noted otherwise,
+## are from edge 40 pro (14 U1TRS34.8-30-13-2-2-4 68e97-f9a887).
+## RETAIL variant
 
 # ADSP
 vendor/bin/adsprpcd
