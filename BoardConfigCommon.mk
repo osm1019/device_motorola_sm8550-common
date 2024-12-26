@@ -3,6 +3,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+DISABLE_ARTIFACT_PATH_REQUIREMENTS := true
+BUILD_BROKEN_DUP_RULES := true
+
 BOARD_VENDOR := motorola
 
 COMMON_PATH := device/motorola/sm8550-common
